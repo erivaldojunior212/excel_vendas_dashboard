@@ -4,7 +4,7 @@ Projeto de dashboard desenvolvido no Excel para análise de vendas.
 
 ## 📸 Preview
 
-![Dashboard](images/preview.png)
+![Dashboard](preview.png)
 
 ## 📌 Funcionalidades
 
